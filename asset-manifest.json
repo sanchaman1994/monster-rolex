@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/monsters-rolex/static/css/main.9f0f2895.css",
+    "main.js": "/monsters-rolex/static/js/main.e88d8ebc.js",
+    "static/js/787.bc7d429a.chunk.js": "/monsters-rolex/static/js/787.bc7d429a.chunk.js",
+    "static/media/logo.svg": "/monsters-rolex/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/monsters-rolex/index.html",
+    "main.9f0f2895.css.map": "/monsters-rolex/static/css/main.9f0f2895.css.map",
+    "main.e88d8ebc.js.map": "/monsters-rolex/static/js/main.e88d8ebc.js.map",
+    "787.bc7d429a.chunk.js.map": "/monsters-rolex/static/js/787.bc7d429a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f0f2895.css",
+    "static/js/main.e88d8ebc.js"
+  ]
+}
